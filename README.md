@@ -73,7 +73,7 @@ Copy the best full-precision model from `./model_compound_scaling/saved_models/b
 `./model_quantization/trained_fp_models` and optionally rename it, e.g. _MicroNet_d14_w12_phi35_acc8146_params8_06m.th_.
 ```
 python -u run_quantization.py --model-dict MicroNet_d14_w12_phi35_acc8146_params8_06m.th --batch-size 128 --epochs 20 
---retrain-epochs 20 --ini-c-divrs 0.45 --lambda-max-divrs 0.15 --model cifar-micronet --dw-multps 1.4 1.2 --phi 3.5 
+--retrain-epochs 20 --ini-c-divrs 0.45 --lambda-max-divrs 0.15 --model cifar_micronet --dw-multps 1.4 1.2 --phi 3.5 
 --dataset CIFAR100
 ```
 The best quantized model can be found in `./model_quantization/saved_models/Ternary_best_acc.pt`.
