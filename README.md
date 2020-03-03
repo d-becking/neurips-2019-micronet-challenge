@@ -1,5 +1,9 @@
 # NeurIPS 2019 MicroNet Challenge
 
+### We encourage you to take a look at our latest [improvements](https://github.com/d-becking/efficientCNNs)
+
+### You may also want to 
+
 In this project two algorithms are implemented: first, an algorithm which compresses neural networks by applying an 
 entropy controlled ternary quantization and, second, a compound scaling approach which finds efficient architectures 
 in terms of scaling model width and depth. 
