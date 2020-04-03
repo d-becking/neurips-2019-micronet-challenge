@@ -4,7 +4,7 @@
 
 ### You may also want to read the arXiv.org preprint: https://arxiv.org/abs/2004.01077 
 
-**If you find this code useful in your research, please cite:**
+If you find this code useful in your research, please cite:
 ```
 @article{marban_learning_2020,
 	title = {Learning {Sparse} \& {Ternary} {Neural} {Networks} with {Entropy}-{Constrained} {Trained} {Ternarization} ({EC2T})},
