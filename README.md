@@ -1,6 +1,6 @@
 # NeurIPS 2019 MicroNet Challenge
 
-### We encourage our readers to take a look at the latest [improvements](https://github.com/d-becking/efficientCNNs)
+### We encourage our readers to take a look at the latest [improvements](https://github.com/d-becking/efficientCNNs) and the arXiv.org preprint: https://arxiv.org/abs/2004.01077 
 
 ### You may also want to 
 
