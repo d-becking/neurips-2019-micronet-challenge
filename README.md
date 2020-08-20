@@ -6,12 +6,14 @@
 
 If you find this code useful in your research, please cite:
 ```
-@InProceedings{Marban_2020_CVPR_Workshops,
+@InProceedings{Marban_2020_EC2T,
 author = {Marban, Arturo and Becking, Daniel and Wiedemann, Simon and Samek, Wojciech},
 title = {Learning Sparse & Ternary Neural Networks With Entropy-Constrained Trained Ternarization (EC2T)},
-booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
 month = {June},
-year = {2020}
+year = {2020},
+pages={3105-3113},
+doi = {10.1109/CVPRW50498.2020.00369}
 }
 ```
 
